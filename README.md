@@ -52,9 +52,11 @@ Zadejte číslo možnosti:
 
 Zadejte číslo možnosti: 1
 Zadejte částku příjmu: 5000
+
 ----------------------------------------
 Příjem ve výši 5000 Kč byl úspěšně přidán.
 Nový zůstatek je 5000 Kč.
+
 ----------------------------------------
 
 ### Přidání výdaje
@@ -62,25 +64,32 @@ Nový zůstatek je 5000 Kč.
 Zadejte číslo možnosti: 2
 Zadejte částku výdaje: 1500
 Zadejte kategorii výdaje: Jídlo
+
 ----------------------------------------
 Výdaj ve výši 1500 Kč byl přidán do kategorie 'Jídlo'.
 Nový zůstatek je 3500 Kč.
+
 ----------------------------------------
+
 
 ### Zobrazení zůstatku
 
 Zadejte číslo možnosti: 3
+
 ----------------------------------------
 Aktuální zůstatek na účtu je 3500 Kč.
+
 ----------------------------------------
 
 ## Zobrazení kategorií
 
 Zadejte číslo možnosti: 4
 Kategorie příjmů a výdajů:
+
 ----------------------------------------
 prijem: 5000 Kč
 Jídlo: -1500 Kč
+
 ----------------------------------------
 
 ## Graf kategorií
@@ -91,11 +100,13 @@ Jídlo: -1500 Kč
 
 Zadejte číslo možnosti: 7
 Měsíční report za May 2024:
+
 ------------------------------
 Celkové příjmy: 5000 Kč
 Celkové výdaje: 1500 Kč
 Detailní přehled výdajů:
 - Jídlo: 1500 Kč
+
 ------------------------------
 
 ## Uložení a Načtení Dat
@@ -115,12 +126,15 @@ Zadejte kategorii výdaje (nebo 'konec' pro ukončení): Bydlení
 Zadejte částku pro kategorii 'Bydlení': 2000
 Zadejte kategorii výdaje (nebo 'konec' pro ukončení): konec
 
-Plánovaný rozpočet:
+## Plánovaný rozpočet:
+
 ------------------------------
+
 Plánovaný příjem: 6000 Kč
 Bydlení: 2000 Kč
 Počáteční zůstatek: 3500 Kč
 Předpokládaný zůstatek na konci měsíce: 7500 Kč
+
 ------------------------------
 
 ## Budoucí možné vylepšení
